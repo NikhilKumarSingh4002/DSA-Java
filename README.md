@@ -49,7 +49,7 @@ Here's a list of the programs included in this repository, organized by topic:
 
 ### Dynamic Programming
 - `coinChange.java`: Solves the Coin Change problem.
-- `knapsack.java`: Solves the 0/1 Knapsack problem using recursion.
+- `knapsack.java`: Solves the fractional knapsack problem.
 - `knapsack_dp.java`: Solves the 0/1 Knapsack problem using dynamic programming.
 - `fibonacci.java`: Computes Fibonacci numbers using dynamic programming.
 - `sumOfSubset.java`: Solves the Subset Sum problem.
