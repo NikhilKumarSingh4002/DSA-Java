@@ -34,6 +34,8 @@ This repository is a one-stop solution for practicing some of the most frequentl
 ## 📂 Programs Included
 
 Here's a list of the programs included in this repository, organized by topic:
+### Arrays
+- `Rotate Array`: Rotates an array to the right by a given number of steps.
 
 ### Linked Lists
 - `ListNode.java`: Addition of two linked lists
