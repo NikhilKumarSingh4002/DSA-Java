@@ -36,7 +36,7 @@ This repository is a one-stop solution for practicing some of the most frequentl
 Here's a list of the programs included in this repository, organized by topic:
 
 ### Linked Lists
-- `ListNode.java`: Basic structure of a linked list node.
+- `ListNode.java`: Addition of two linked lists
 - `linkedlistcycle.java`: Detects a cycle in a linked list.
 - `reverseLinkedList.java`: Reverses a linked list.
 - `mergeSortedLinkedList.java`: Merges two sorted linked lists.
